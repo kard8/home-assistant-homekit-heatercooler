@@ -1,6 +1,7 @@
 {
   "name": "HomeKit HeaterCooler",
-  "content_in_root": false,
-  "domains": ["homekit_heatercooler"],
-  "homeassistant": "2024.6.0"
+  "domain": "homekit_heatercooler",
+  "country": "ALL",
+  "homeassistant": "2023.0.0",
+  "render_readme": true
 }
