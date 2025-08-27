@@ -21,3 +21,7 @@ homekit:
     entity_config:
       climate.living_room_ac:
         type: heatercooler
+```
+
+## HACS
+This repo is HACS compatible. Add it as a custom repository in HACS.
