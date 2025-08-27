@@ -1,8 +1,0 @@
-{
-  "domain": "homekit_heatercooler",
-  "name": "HomeKit HeaterCooler",
-  "version": "0.1",
-  "dependencies": ["homekit"],
-  "codeowners": ["@kard8"],
-  "requirements": []
-}
