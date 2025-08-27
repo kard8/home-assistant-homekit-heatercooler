@@ -4,7 +4,8 @@
   "documentation": "https://github.com/kard8/homekit-heatercooler",
   "requirements": [],
   "dependencies": [],
-  "version": "0.0.1",
+  "version": "1.0",
   "codeowners": ["@kard8"],
-  "integration_type": "hub"
+  "integration_type": "hub",
+  "config_flow": true
 }
