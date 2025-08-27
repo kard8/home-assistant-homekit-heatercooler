@@ -2,7 +2,9 @@
   "domain": "homekit_heatercooler",
   "name": "HomeKit HeaterCooler",
   "documentation": "https://github.com/kard8/homekit-heatercooler",
+  "requirements": [],
   "dependencies": [],
+  "version": "0.0.1",
   "codeowners": ["@kard8"],
-  "requirements": []
+  "integration_type": "hub"
 }
