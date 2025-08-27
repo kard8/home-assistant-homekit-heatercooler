@@ -3,6 +3,6 @@
   "name": "HomeKit HeaterCooler",
   "version": "0.1",
   "dependencies": ["homekit"],
-  "codeowners": ["@yourgithub"],
+  "codeowners": ["@kard8"],
   "requirements": []
 }
